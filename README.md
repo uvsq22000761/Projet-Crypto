@@ -71,4 +71,5 @@ Déchiffrement du texte 3 : "bravo à l'aide de l'indice vous avez réussi à ca
 le dernier texte est pour les braves, regardez vous dans un miroir, en êtes vous un?"
  
    Le texte 4 est donc vu comme dans un miroir, c'est-à -dire qu'on l'inverse.
-Il est codé de la même manière que le texte 3, on fait donc la même chose que dans le texte 3. 
+Il est codé de la même manière que le texte 3, on fait donc la même chose que dans le texte 3.
+Quand on l'inverse on obtient : "kv qsteiadw qrs gqfmem  zwrno c'rvjmq toirt  cen bizeiw ofimw el Miwjhuz  pvz ysqnvno rbes vdwvr  pdt sdrffj à bvc iy  evvjvdvis hd krjthrlen  kfj vvzjxnzir u'vvffet  et eiy sslfai ev wykmvs  if vjycsrin obj xvdwvr  wzoj neupzr wh ca ptov  nstt sjr grus zji yi uyuii  b ui bpke tnjetp  rj lz rpcedp fjt jqpzd  wh cen pvrtmi trinsmt  nz rpet zqbzmzrs huz pvrtmi  trnn zwfim dtjati  ev ksquvr ymf rjfd  jum kfj bvzous fnvceqeqej"
